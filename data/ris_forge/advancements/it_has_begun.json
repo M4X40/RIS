@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "ris_forge:random_item"
+    },
+    "title": {
+      "translate": "advancements.it_has_begun.title"
+    },
+    "description": {
+      "translate": "advancements.it_has_begun.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "it_has_begun": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ris_forge:random_item"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:story/root"
+}

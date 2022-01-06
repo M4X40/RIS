@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="ris_forge"
+version="0.2.0"
+displayName="Randomized Item Swapper"
+credits="M4X4"
+displayURL="http://m4x4.tk"
+authors="M4X4"
+description='''
+Press O in game for help
+'''
+
+[[dependencies.ris_forge]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

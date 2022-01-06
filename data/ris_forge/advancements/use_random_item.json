@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ris_forge:random_item"
+    },
+    "title": {
+      "translate": "advancements.use_random_item.title"
+    },
+    "description": {
+      "translate": "advancements.use_random_item.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "use_random_item": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "ris_forge:it_has_begun"
+}

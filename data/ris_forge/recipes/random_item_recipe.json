@@ -1,0 +1,33 @@
+{
+  "group": "ris_forge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LRL",
+    "BDY",
+    "LGL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    },
+    "B": {
+      "item": "minecraft:blue_wool"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "Y": {
+      "item": "minecraft:yellow_wool"
+    },
+    "G": {
+      "item": "minecraft:green_wool"
+    }
+  },
+  "result": {
+    "item": "ris_forge:random_item",
+    "count": 1
+  }
+}
