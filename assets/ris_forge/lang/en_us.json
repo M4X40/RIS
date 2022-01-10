@@ -1,13 +1,14 @@
 {
   "advancements.open_help_gui.descr": "Open the RIS Help Menu",
-  "itemGroup.tabrandom_items": "Random Item",
   "advancements.it_has_begun.title": "It Has Begun...",
-  "item.ris_forge.random_item": "Random Item",
   "advancements.use_random_item.title": "math.random()",
-  "key.testing_zone.help_bind": "Help Bind",
   "key.ris_forge.help_bind": "Help Bind",
-  "item.testing_zone.random_item": "Random Item",
-  "advancements.it_has_begun.descr": "Craft the Random Item",
   "advancements.use_random_item.descr": "Use the Random Item",
-  "advancements.open_help_gui.title": "You\u0027re Welcome ;)"
+  "advancements.open_help_gui.title": "You\u0027re Welcome ;)",
+  "itemGroup.tabrandom_items": "Random Item",
+  "item.ris_forge.random_item": "Random Item",
+  "key.testing_zone.help_bind": "Help Bind",
+  "item.testing_zone.random_item": "Random Item",
+  "key.ris_forge.debug_kb": "???",
+  "advancements.it_has_begun.descr": "Craft the Random Item"
 }
